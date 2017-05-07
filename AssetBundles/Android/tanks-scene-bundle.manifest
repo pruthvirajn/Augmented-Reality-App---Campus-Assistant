@@ -1,0 +1,15 @@
+ManifestFileVersion: 0
+CRC: 1429782326
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 054fe3248da1963abe116719baa6709e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/AssetBundleSample/SampleAssets/Tanks/Scenes/TanksExample.unity
+Dependencies:
+- C:/Users/Pruthvi/Documents/RA-AR/AssetBundles/Android/tanks-albedo.normal-hd

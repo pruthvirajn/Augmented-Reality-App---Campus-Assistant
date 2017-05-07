@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 545266583
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 878c362ce7e81f76aee8c37e822c3c8b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5aebbd669b69b71c6e37ab00bc730a48
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBundleSample/SampleAssets/MyCube.prefab
+Dependencies:
+- C:/Users/Pruthvi/Documents/RA-AR/AssetBundles/Android/material-bundle

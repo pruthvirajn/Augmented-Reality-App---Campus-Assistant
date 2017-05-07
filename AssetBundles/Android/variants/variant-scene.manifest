@@ -1,0 +1,15 @@
+ManifestFileVersion: 0
+CRC: 1672877497
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b393e1b121e51791fc20e3b3cc7902e4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/AssetBundleSample/SampleAssets/Variants/VariantScene.unity
+Dependencies:
+- C:/Users/Pruthvi/Documents/RA-AR/AssetBundles/Android/variants/myassets.hd

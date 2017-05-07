@@ -1,0 +1,15 @@
+ManifestFileVersion: 0
+CRC: 2963874541
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e64697272d296db4524873e30fe2d0d8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/AssetBundleSample/SampleAssets/TestScene.unity
+Dependencies:
+- C:/Users/Pruthvi/Documents/RA-AR/AssetBundles/Android/material-bundle
